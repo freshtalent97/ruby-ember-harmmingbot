@@ -3,8 +3,8 @@
 for j in {001..200}
 do
     Y=$((2018+$(($RANDOM % 2))))
-    startm=1
-    endm=6
+    startm=4
+    endm=7
     M=$(($startm+$RANDOM%($endm-$startm+1)))
     D=$(($RANDOM%31+1))
     bugcnt=$(($RANDOM%15+1))
