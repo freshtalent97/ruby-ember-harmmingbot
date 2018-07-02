@@ -1,1 +1,1 @@
-13 bugs fixed on 1/7/2018
+8 bugs fixed on 7/2/2018
