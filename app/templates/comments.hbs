@@ -1,0 +1,8 @@
+<div class="full-page-post centered">
+  {{stream-feed/items/post
+    post=post
+    isExpanded=true
+    comment=model
+    isReply=parent
+    readOnly=(not session.hasUser)}}
+</div>

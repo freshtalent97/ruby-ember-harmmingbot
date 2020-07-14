@@ -1,0 +1,12 @@
+{
+  "name": "kitsu-shared",
+  "dependencies": {
+    "ember-cli-babel": "*",
+    "ember-cli-htmlbars": "*",
+    "ember-cli-string-helpers": "*",
+    "ember-invoke-action": "*"
+  },
+  "keywords": [
+    "ember-addon"
+  ]
+}
